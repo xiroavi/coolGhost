@@ -1,0 +1,44 @@
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: posts","time":"2019-05-23T07:17:49.434Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: users","time":"2019-05-23T07:17:49.460Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: posts_authors","time":"2019-05-23T07:17:49.468Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: roles","time":"2019-05-23T07:17:49.472Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: roles_users","time":"2019-05-23T07:17:49.478Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: permissions","time":"2019-05-23T07:17:49.481Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: permissions_users","time":"2019-05-23T07:17:49.487Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: permissions_roles","time":"2019-05-23T07:17:49.491Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: permissions_apps","time":"2019-05-23T07:17:49.494Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: settings","time":"2019-05-23T07:17:49.498Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: tags","time":"2019-05-23T07:17:49.505Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: posts_tags","time":"2019-05-23T07:17:49.515Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: apps","time":"2019-05-23T07:17:49.521Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: app_settings","time":"2019-05-23T07:17:49.532Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: app_fields","time":"2019-05-23T07:17:49.540Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: clients","time":"2019-05-23T07:17:49.546Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: client_trusted_domains","time":"2019-05-23T07:17:49.554Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: accesstokens","time":"2019-05-23T07:17:49.560Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: refreshtokens","time":"2019-05-23T07:17:49.565Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: subscribers","time":"2019-05-23T07:17:49.570Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: invites","time":"2019-05-23T07:17:49.576Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: brute","time":"2019-05-23T07:17:49.583Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: webhooks","time":"2019-05-23T07:17:49.587Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: sessions","time":"2019-05-23T07:17:49.591Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: integrations","time":"2019-05-23T07:17:49.596Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: api_keys","time":"2019-05-23T07:17:49.601Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2019-05-23T07:17:49.607Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: members","time":"2019-05-23T07:17:49.612Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Creating table: actions","time":"2019-05-23T07:17:49.618Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Tag","time":"2019-05-23T07:17:49.628Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Client","time":"2019-05-23T07:17:49.677Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Role","time":"2019-05-23T07:17:49.702Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Permission","time":"2019-05-23T07:17:49.742Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: User","time":"2019-05-23T07:17:50.146Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Post","time":"2019-05-23T07:17:52.148Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Model: Integration","time":"2019-05-23T07:17:52.803Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Relation: Role to Permission","time":"2019-05-23T07:17:52.831Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Relation: Post to Tag","time":"2019-05-23T07:17:53.353Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Relation: User to Role","time":"2019-05-23T07:17:53.400Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Ghost is running in development...","time":"2019-05-23T07:17:56.993Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2019-05-23T07:17:56.994Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Url configured as: http://localhost:2369/","time":"2019-05-23T07:17:56.995Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Ctrl+C to shut down","time":"2019-05-23T07:17:56.996Z","v":0}
+{"name":"Log","hostname":"Anirudhs-MacBook-Pro.local","pid":66597,"level":30,"msg":"Ghost boot 10.272s","time":"2019-05-23T07:17:57.000Z","v":0}
